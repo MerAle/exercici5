@@ -1,2 +1,6 @@
 making first file for Paul
+<<<<<<< HEAD
 Paul also modifies fileP1.txt
+=======
+Alice is modifying fileP1.txt
+>>>>>>> 685218804a22717630ec0e12f4ae1e2f9c70789a
